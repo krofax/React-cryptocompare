@@ -1,5 +1,5 @@
 ![App ScreenShot](./app-screanshot.png?raw=true "React CryptoCompare Stream")
-[Link](https://dmitry1007.github.io/react-cryptocompare-stream/)
+[Link](https://github.com/krofax/React-cryptocompare/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
@@ -11,11 +11,10 @@ Feel free to create a PR if you would like to update any part of the code :)
 
 
 ### Get Started
-- `git clone git@github.com:Dmitry1007/react-cryptocompare-stream.git`
+- `git clone git@github.com:krofax/React-cryptocompare.git`
 - `cd react-cryptocompare-stream`
 - `npm install`
 - `npm start`
-
 
 ##### Example Bitcoin JSON Object you get back from CryptoCompare
 
