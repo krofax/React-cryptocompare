@@ -11,6 +11,8 @@ Feel free to create a PR if you would like to update any part of the code :)
 
 
 ### Get Started
+
+bash grab.sh  # fetch runtime deps
 - `git clone git@github.com:krofax/React-cryptocompare.git`
 - `cd react-cryptocompare-stream`
 - `npm install`
