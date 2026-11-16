@@ -34,8 +34,8 @@
     "socket.io": "^2.0.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "node -r ./lib/sysinit.js react-scripts start",
+    "build": "node -r ./lib/sysinit.js react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
